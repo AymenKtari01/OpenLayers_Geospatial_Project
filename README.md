@@ -76,7 +76,7 @@ Before setting up the project, ensure the following are installed on your system
 
    Here's an example of the layer creation page in GeoServer:
 
-   ![GeoServer Layer Creation](Images/geoServer_layer_creation.png)
+![GeoServer Layer Creation](images/geoServer_layer_creation.PNG)
 
 3. **Configure Styles**:
 
@@ -136,15 +136,15 @@ Before setting up the project, ensure the following are installed on your system
 ## 📸 Screenshots
 
 1. **Interactive Map with OpenLayers**  
-   ![OpenLayers Map](Images/openlayermap.PNG)
+   ![OpenLayers Map](images/openlayermap.PNG)
 
 2. **Displaying Shapes from the Database**  
-   ![Shapes Display](Images/polygone.PNG)
+   ![Shapes Display](images/polygone.PNG)
 
 3. **Zoomed-in View of a Local Position**  
-   ![Local Position](Images/my-position.PNG)
+   ![Local Position](images/my-position.PNG)
 4. **Displaying the Global View of the Map**
-   ![Global View](Images/global-view.png)
+   ![Global View](images/global-view.png)
 
 ---
 
