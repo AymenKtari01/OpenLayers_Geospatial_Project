@@ -173,10 +173,6 @@ Combines **OpenStreetMap** with **GeoServer** layers, similar to **geoserver.js*
 
 ---
 
-Here’s a shorter version with emojis for a README file:
-
----
-
 ## How it Works 🌍
 
 This system allows users to interact with geospatial data through a web interface. Here's how it works:
