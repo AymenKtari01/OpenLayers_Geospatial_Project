@@ -43,10 +43,12 @@ This project enables you to:
 
 Before you begin, ensure you have the following installed on your system:
 
-- **npm** and **Node.js**: To run the backend server.
-- **PostgreSQL** with the **PostGIS Extension**: For geospatial data storage.
-- **GeoServer**: To publish and manage geospatial layers.
-- **Web Interface**: To interact with the OpenLayers-based client.
+| **Prerequisite**                              | **Description**                               |
+| --------------------------------------------- | --------------------------------------------- |
+| **npm** and **Node.js**                       | Required to run the backend server.           |
+| **PostgreSQL** with the **PostGIS Extension** | For geospatial data storage.                  |
+| **GeoServer**                                 | To publish and manage geospatial layers.      |
+| **Web Interface**                             | To interact with the OpenLayers-based client. |
 
 ---
 
