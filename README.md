@@ -142,9 +142,9 @@ Before setting up the project, ensure the following are installed on your system
    ![Shapes Display](images/polygone.PNG)
 
 3. **Zoomed-in View of a Local Position**  
-   ![Local Position](images/my-position.PNG)
+   ![Local Position](images/my_position.PNG)
 4. **Displaying the Global View of the Map**
-   ![Global View](images/global-view.png)
+   ![Global View](images/global_view.png)
 
 ---
 
