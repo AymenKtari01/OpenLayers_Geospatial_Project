@@ -7,6 +7,7 @@ Welcome to the **OpenLayers Geospatial Project**! This repository provides all t
 ## 📚 Table of Contents
 
 - [🚀 Project Overview](#-project-overview)
+- [📂 Project Architecture](#-project-architecture)
 - [🛠 Prerequisites](#-prerequisites)
 - [📦 Installation and Setup](#-installation-and-setup)
   - [1. PostgreSQL and PostGIS Setup](#1-postgresql-and-postgis-setup)
@@ -18,7 +19,7 @@ Welcome to the **OpenLayers Geospatial Project**! This repository provides all t
   - [🌍 geoserver.js](#-geoserverjs)
   - [🌐 osm_gs.js](#-osm-gsjs)
 - [📋 How It Works](#-how-it-works)
-- [📸 Screenshots](#-screenshots)
+- [📸 Web Interface](#-web-interface)
 - [👥 Contribution](#-contribution)
 - [📄 Project By](#-project-by)
 
@@ -34,6 +35,10 @@ This project enables you to:
 
 ---
 
+## 📂 **Project Architecture**
+
+![Architecture](images/Architecture.png)
+
 ## 🛠 Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
@@ -41,7 +46,7 @@ Before you begin, ensure you have the following installed on your system:
 - **npm** and **Node.js**: To run the backend server.
 - **PostgreSQL** with the **PostGIS Extension**: For geospatial data storage.
 - **GeoServer**: To publish and manage geospatial layers.
-- **A modern browser**: To interact with the OpenLayers-based client.
+- **Web Interface**: To interact with the OpenLayers-based client.
 
 ---
 
@@ -139,8 +144,6 @@ Before you begin, ensure you have the following installed on your system:
 
 3. **Host the Client**:
    - Deploy your **OpenLayers** map on a **local** or **remote** web server for public or internal access.
-
-Here’s a more organized and concise version of the files section in your README, with emojis for better readability:
 
 ---
 
