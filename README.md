@@ -136,13 +136,13 @@ Before setting up the project, ensure the following are installed on your system
 ## 📸 Screenshots
 
 1. **Interactive Map with OpenLayers**  
-   ![OpenLayers Map](images/openlayermap.PNG)
+   ![OpenLayers Map](images/openlayermap.png)
 
 2. **Displaying Shapes from the Database**  
    ![Shapes Display](images/polygone.PNG)
 
 3. **Zoomed-in View of a Local Position**  
-   ![Local Position](images/my_position.PNG)
+   ![Local Position](images/my_position.png)
 4. **Displaying the Global View of the Map**
    ![Global View](images/global_view.png)
 
