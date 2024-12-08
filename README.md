@@ -39,7 +39,7 @@ This project enables you to:
 
 ![Architecture](images/Architecture.png)
 
-## Prerequisites
+## 🛠 Prerequisites
 
 | Tool                     | Main Role                                     | Primary Interaction                                      |
 | ------------------------ | --------------------------------------------- | -------------------------------------------------------- |
@@ -48,7 +48,7 @@ This project enables you to:
 | **OpenLayers**           | Map display and user interaction              | Consumes GeoServer services and sends geometries via API |
 | **HTML/CSS/JavaScript**  | Web application design and styling            | User interface for data manipulation                     |
 | **SHP (Shapefile)**      | Geospatial data format                        | Source or output for PostgreSQL/PostGIS or ArcMap        |
-| **npm and Node.js**      | Required to run the middelware server         | Enables middelware server functionality                  |
+| **npm and Node.js**      | Required to run the backend server            | Enables middelware backend functionality                 |
 
 ---
 
@@ -92,12 +92,12 @@ This project enables you to:
 
    **Layers to be fetched from the GeoServer instance**:
 
-   - **gis_osm_landuse_a_free_1** (land use)
-   - **gis_osm_roads_free_1** (road network)
-   - **gis_osm_pois_free_1** (points of interest)
-   - **gis_osm_places_free_1** (places and cities)
-   - **civ_adm1, civ_adm2, civ_adm3** (administrative boundaries)
-   - **point_shapes, line_shapes, polygon_shapes** (user-drawn geometries)
+   - **gis_osm_landuse_a_free_1**
+   - **gis_osm_roads_free_1**
+   - **gis_osm_pois_free_1**
+   - **gis_osm_places_free_1**
+   - **civ_adm1, civ_adm2, civ_adm3**
+   - **point_shapes, line_shapes, polygon_shapes**
 
    Ensure these layers are configured and publicly accessible from GeoServer.
 
